@@ -1,0 +1,28 @@
+﻿  nmapdetector.c
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(116): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(129): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(130): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(131): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(132): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(191): warning C4013: 'getMainAdapterDesc' undefined; assuming extern returning int
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(291): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(301): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(309): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(315): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(361): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(368): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(191): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(348): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(352): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(356): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(456): warning C4133: 'function': incompatible types - from 'WCHAR [512]' to 'LPSTR'
+C:\Users\Saint\Documents\RTBTStuff\NmapDetector\nmapdetector.c(482): warning C4133: 'function': incompatible types - from 'WCHAR [512]' to 'LPSTR'
+  NmapDetector.vcxproj -> C:\Users\Saint\Documents\RTBTStuff\NmapDetector\Debug\NmapDetector.exe
